@@ -13,6 +13,7 @@ A personal collection of [agent skills](https://docs.claude.com/en/docs/claude-c
 | [`grill-with-docs`](./grill-with-docs) | A `/grilling` session that also produces docs (ADRs and a glossary) as decisions crystallise. |
 | [`improve-codebase-architecture`](./improve-codebase-architecture) | Scans a codebase for deepening opportunities, presents them as a visual HTML report, then grills through whichever one you pick. |
 | [`loop-me`](./loop-me) | A stateful grilling session whose only output is workflow specs. |
+| [`no-mistakes`](./no-mistakes) | Lightweight pre-push review gate — runs typecheck, lint, and build, then reviews the diff against your stated intent for security, logic, and best-practice issues. |
 | [`teach`](./teach) | Teaches a topic across multiple sessions, tracking learning records and the zone of proximal development. |
 | [`handoff`](./handoff) | Compacts the current conversation into a handoff document so a fresh agent can pick up the work. |
 | [`writing-great-skills`](./writing-great-skills) | Reference for writing and editing skills well — the vocabulary and principles that keep a skill predictable. |
