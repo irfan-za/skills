@@ -17,10 +17,12 @@ A personal collection of [agent skills](https://docs.claude.com/en/docs/claude-c
 | [`teach`](./teach) | Teaches a topic across multiple sessions, tracking learning records and the zone of proximal development. |
 | [`handoff`](./handoff) | Compacts the current conversation into a handoff document so a fresh agent can pick up the work. |
 | [`writing-great-skills`](./writing-great-skills) | Reference for writing and editing skills well — the vocabulary and principles that keep a skill predictable. |
+| [`content-reseach`](./marketing/content-reseach) | Finds high-engagement X and Threads posts, evaluates SGA adaptation potential with Jev, and hands off a source brief. |
+| [`create-carousel-post`](./marketing/create-carousel-post) | Adapts a source into verified SGA slide copy, then makes 4:5 Instagram images when requested. |
 
 ## Layout
 
-Each skill is a top-level folder containing a `SKILL.md` (name + description frontmatter, then the instructions). Some also carry supporting files:
+Each skill is a folder containing a `SKILL.md` (name + description frontmatter, then the instructions). The marketing skills are grouped under `marketing/`. Some skills also carry supporting files:
 
 ```
 <skill>/
@@ -38,6 +40,8 @@ git clone https://github.com/<your-username>/skills.git ~/.claude/skills
 ```
 
 Then invoke a skill with `/<skill-name>` in Claude Code, e.g. `/code-review` or `/grill-me`.
+
+The two skills under `marketing/` should be copied or linked as individual skill folders directly into your agent's skills directory for automatic discovery.
 
 ## Notes on cross-skill references
 
