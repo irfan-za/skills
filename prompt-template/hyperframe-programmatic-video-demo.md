@@ -3,7 +3,7 @@ Create a 15–60 second premium demo video for this landing page template using 
 I will provide:
 
 - the landing page project/codebase
-- a screen recording of me scrolling through the website. please ask me if im not give you yet, DONT make video demo if im not give you the screen recording demo.
+- a screen recording of me scrolling through the website at [LOCATION]
 
 Use the screen recording and actual website, UI, component, icon to understand the design, sections, layout, animations, and strongest parts of the landing page.
 
@@ -29,6 +29,5 @@ Output:
 - render command for MP4
 
 Template name: [TEMPLATE NAME]
-Category: [BUSINESS / RESTAURANT / PROPERTY / SAAS / ETC]
 
 Brand at the end: jasawebsite.id
