@@ -1,4 +1,9 @@
-Create a 15–60 second premium demo video for this landing page template using Hyperframe skill.
+Create a 15–60 second premium demo video for this landing page template.
+
+to make video we gonna use skills:
+
+Hyperframe skill from https://github.com/heygen-com/hyperframes
+or another optional skill is hyperframe failed, use Tesseract from https://github.com/mirage-hq/Tesseract please check are those skills already installed globally in this machine or not
 
 I will provide:
 
