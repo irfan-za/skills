@@ -3,7 +3,8 @@ Create a premium demo video for this landing page template.
 to make video we gonna use skills:
 
 Hyperframe skill from https://github.com/heygen-com/hyperframes
-or another optional skill is hyperframe failed, use Tesseract from https://github.com/mirage-hq/Tesseract please check are those skills already installed globally in this machine or not
+or another optional skill is hyperframe failed, use Tesseract from https://github.com/mirage-hq/Tesseract please check are those skills already installed globally in this machine or not.
+you can use https://pixabay.com/music/ as the backsound music that used in this video. And use  https://openverse.org/ or https://pixabay.com/sound-effects/ as sound effect that used on the video.
 
 I will provide:
 
